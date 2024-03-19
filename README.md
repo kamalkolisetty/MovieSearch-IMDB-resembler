@@ -10,9 +10,7 @@ Movie Search is a web application that allows users to search for movies and vie
 - View a list of search results with movie posters and basic information.
 - Click on a movie to view detailed information including the poster, title, year, ratings, plot, actors, and more.
 
-## Demo
 
-Include a link to a live demo of your application if available.
 
 ## Technologies Used
 
