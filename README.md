@@ -61,8 +61,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- [Email](kamalkumarkolisetty@gmail.com)
+- [Email -kamalkumarkolisetty@gmail.com ](kamalkumarkolisetty@gmail.com)
 
 # DEMONSTRATION 
+Home Page
 ![Home](one.png "Home")
+
+Searching a movie name
+![Searching](two.png "Searching")
+
+Result
+![Result](three.png "Result")
+
+
+
 
