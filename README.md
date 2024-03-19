@@ -25,13 +25,13 @@ Movie Search is a web application that allows users to search for movies and vie
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/movie-search.git
+    git clone https://github.com/kamalkolisetty/MovieSearch-IMDB-resembler.git
     ```
 
 2. Open the project folder:
 
     ```bash
-    cd movie-search
+    cd MovieSearch-IMDB-resembler
     ```
 
 3. Open the `index.html` file in your web browser.
@@ -41,19 +41,8 @@ Movie Search is a web application that allows users to search for movies and vie
 1. Enter a movie title in the search box.
 2. Click on the movie from the search results to view detailed information.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
@@ -61,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Email -kamalkumarkolisetty@gmail.com ](kamalkumarkolisetty@gmail.com)
 
-# DEMONSTRATION 
+## DEMONSTRATION 
 
 Home Page
 
