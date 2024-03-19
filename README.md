@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Email](kamalkumarkolisetty@gmail.com)
 
 # DEMONSTRATION 
-![Example Image](one.jpg "Home")
+![Home](one.png "Home")
 
